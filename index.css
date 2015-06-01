@@ -1,0 +1,150 @@
+
+.body{
+	background: #2222222;
+}
+
+.box1{
+	background: orange;
+	height:5px;
+	margin-top: -10px;
+	margin-left: 0px;
+
+}
+
+.box2{
+	background: #223322;
+	height:0.5px;
+	margin-top: -10px;
+	margin-left: -20px;
+}
+
+
+li{
+	display: inline-block;
+    width: 18%;
+    font-size: 12px;
+}
+
+.pic1{
+	margin-top: 10px;
+}
+
+
+.luis1{
+	margin-left: 300px;
+	margin-top: -40px;
+
+}
+
+
+.pic2{
+	margin-top: -40px;
+	margin-bottom: 20px;
+	margin-left: 900px; 
+}
+
+
+
+h1 {
+	font-size: 20px;
+	background: #eeeeee;
+}
+
+
+.text1{
+	font-size: 12px;
+	color: black;
+	margin-top: 10px;
+	margin-left: 400px;
+}
+
+.text-big{
+	font-weight: 700;
+}
+
+
+.image{
+	width: 0px 0px 0px 100px;
+}
+
+form.search {
+margin: 0;
+}
+
+
+.left-box{
+	margin-top: 20px;
+	margin-left: 100px;
+	outline: #ffffff;
+	width:200px;
+    height:100px;
+    border:1px solid #dddddd;
+}
+
+.left-box2{
+	border: 2px;
+	font-weight: 700;
+	background: #eeeeee;
+}
+
+.left-box3{
+	color: #449922;
+    width: 18%;
+    font-size: 12px;
+}
+
+
+
+/* --- ボックス --- */
+form.search div {
+	margin-top: -100px;
+	margin-left: 400px;
+	margin-right: 130px;
+width: 580px; /* ボックスの幅 */
+padding: 1px 0; /* ボックスのパディング（上下、左右） */
+background-color: #ffffff; /* ボックスの背景色 */
+border: 1px #808080 solid; /* ボックスの境界線 */
+}
+
+/* --- テキストボックス --- */
+form.search input.textBox {
+width: 400px; /* テキストボックスの幅 */
+margin: 3px 3px; /* テキストボックスのマージン（上右下左） */
+padding: 0;
+background-color: #ffffff; /* テキストボックスの背景色 */
+border: none; /* テキストボックスの境界線（なし） */
+color: #000000;
+}
+
+/* --- ボタン --- */
+form.search input.btn {
+width: 165px; /* ボタンの幅 */
+height: 3em; /* ボタンの高さ */
+padding: 0;
+background: #eeeeee; /* ボタンの背景 */
+border: 1px #c08000 inset; /* ボタンの境界線 */
+font-weight: bold;
+color: #000000;
+letter-spacing: 0.3em; /* 文字間のスペース */
+}
+
+
+.set-1{
+	margin-top: 10px;
+	margin-left: 400px;
+	margin-bottom: 20px;
+}
+
+
+.set-2{
+	margin-left: 100px;
+	margin-top: -70px;
+}
+
+.set-3{
+	margin-left: 100px
+}
+
+.leftbox3 li {
+	width: 100%;
+}
